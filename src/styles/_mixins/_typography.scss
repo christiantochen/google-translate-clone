@@ -1,0 +1,31 @@
+/* Font styles. */
+
+@mixin roboto-thin {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+}
+
+@mixin roboto-light {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+@mixin roboto-regular {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+
+@mixin roboto-medium {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
+
+@mixin roboto-bold {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+@mixin roboto-black {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 900;
+}
