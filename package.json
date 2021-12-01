@@ -1,5 +1,24 @@
 {
-  "name": "playground-nextjs",
+  "name": "google-translate-clone",
+  "version": "0.0.1",
+  "description": "Google Translate Clone using NextJS and Reactstrap",
+  "license": "MIT",
+  "author": "Christianto Chen",
+  "homepage": "https://github.com/christiantochen/google-translate-clone.git#readme",
+  "keywords": [
+    "NextJS",
+    "ReactJS",
+    "Reacstrap",
+    "Bootstrap5",
+    "GoogleTranslate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiantochen/google-translate-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christiantochen/google-translate-clone/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
